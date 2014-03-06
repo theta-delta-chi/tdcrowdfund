@@ -38,3 +38,4 @@ The back-end of this webapp will most likely be written in Flask, since it's wha
 #### Database Design
 
 #### PayPal Functionality
+Our payment processing will be entirely handled by PayPal, since it has a built-in crowdfunding account and absolves us from security concerns.  More specifically, we will be using the [Adaptive Payments API](https://developer.paypal.com/docs/classic/products/adaptive-payments/) to handle the specifics of accepting payment.  Ideally, our integration is as simple as a button to send users to PayPal and a receipt once the donation has gone through.
