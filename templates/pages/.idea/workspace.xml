@@ -2,14 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b48f4692-1293-4fc9-aeb0-de8bc7eaf615" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unique.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home.html" afterPath="$PROJECT_DIR$/home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../layouts/main.html" afterPath="$PROJECT_DIR$/../layouts/main.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="pages.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="b48f4692-1293-4fc9-aeb0-de8bc7eaf615" time="1393708868708" ignored="false" />
     <file path="/placeholder.about.html" changelist="b48f4692-1293-4fc9-aeb0-de8bc7eaf615" time="1393635032095" ignored="false" />
     <file path="/placeholder.home.html" changelist="b48f4692-1293-4fc9-aeb0-de8bc7eaf615" time="1393635148649" ignored="false" />
-    <file path="/home.html" changelist="b48f4692-1293-4fc9-aeb0-de8bc7eaf615" time="1393722670560" ignored="false" />
+    <file path="/home.html" changelist="b48f4692-1293-4fc9-aeb0-de8bc7eaf615" time="1393797687160" ignored="false" />
+    <file path="/unique.css" changelist="b48f4692-1293-4fc9-aeb0-de8bc7eaf615" time="1393798246590" ignored="false" />
+    <file path="/main.html" changelist="b48f4692-1293-4fc9-aeb0-de8bc7eaf615" time="1393727119999" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,16 +37,34 @@
       <file leaf-file-name="home.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="19" selection-start="89" selection-end="89" vertical-scroll-proportion="-1.3076923">
+            <state line="20" column="51" selection-start="582" selection-end="582" vertical-scroll-proportion="-13.076923">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="layout.main.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../static/css/layout.main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="45" column="1" selection-start="854" selection-end="854" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="unique.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/unique.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="4" selection-start="172" selection-end="172" vertical-scroll-proportion="0.2904328">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../layouts/main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="119" column="0" selection-start="4740" selection-end="4740" vertical-scroll-proportion="0.9594756">
+            <state line="99" column="18" selection-start="3945" selection-end="3945" vertical-scroll-proportion="-17.884615">
               <folding />
             </state>
           </provider>
@@ -50,7 +73,7 @@
       <file leaf-file-name="about.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -76,7 +99,9 @@
       <list>
         <option value="$PROJECT_DIR$/placeholder.about.html" />
         <option value="$PROJECT_DIR$/placeholder.home.html" />
+        <option value="$PROJECT_DIR$/../layouts/main.html" />
         <option value="$PROJECT_DIR$/home.html" />
+        <option value="$PROJECT_DIR$/unique.css" />
       </list>
     </option>
   </component>
@@ -256,9 +281,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home.html">
+    <entry file="file://$PROJECT_DIR$/../../static/css/layout.main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="19" selection-start="89" selection-end="89" vertical-scroll-proportion="-1.3076923">
+        <state line="45" column="1" selection-start="854" selection-end="854" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../layouts/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="99" column="18" selection-start="3945" selection-end="3945" vertical-scroll-proportion="-17.884615">
           <folding />
         </state>
       </provider>
@@ -270,9 +302,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../layouts/main.html">
+    <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="119" column="0" selection-start="4740" selection-end="4740" vertical-scroll-proportion="0.9594756">
+        <state line="20" column="51" selection-start="582" selection-end="582" vertical-scroll-proportion="-13.076923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unique.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="4" selection-start="172" selection-end="172" vertical-scroll-proportion="0.2904328">
           <folding />
         </state>
       </provider>
