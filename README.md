@@ -5,6 +5,7 @@ This is a crowdfunding platform meant (at least initially) for use by one group 
 
 ### Front-End
 The application breaks down into three core "views" or user interfaces.
+
 1. Creating projects
 2. Viewing multiple projects
 3. Viewing the details of one project
